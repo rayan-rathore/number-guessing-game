@@ -30,6 +30,7 @@ The computer randomly selects a number between **1 and 100**, and the player mus
 - User input validation
 
 ---
-<img width="1063" height="900" alt="Screenshot 2026-01-08 114849" src="https://github.com/user-attachments/assets/463449d2-617a-4c5f-afe8-87831260353d" />
 <img width="1412" height="897" alt="Screenshot 2026-01-08 114840" src="https://github.com/user-attachments/assets/b5885329-fb5d-465e-b083-47603df93af6" />
+<img width="1063" height="900" alt="Screenshot 2026-01-08 114849" src="https://github.com/user-attachments/assets/463449d2-617a-4c5f-afe8-87831260353d" />
+
 
